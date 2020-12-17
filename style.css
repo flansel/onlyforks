@@ -1,4 +1,15 @@
 .main{
   position:absolute;
-  left:50%;
+  left:33%;
+}
+
+.post{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.post-message{
+
 }

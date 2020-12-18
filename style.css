@@ -1,6 +1,7 @@
 .main{
   position:absolute;
   left:33%;
+
 }
 
 .post{
@@ -8,8 +9,9 @@
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-color: AAAAAA;
+  background-color: #aaaaaa;
   margin-bottom: 2%;
+  width:50%;
 }
 
 .post-message{

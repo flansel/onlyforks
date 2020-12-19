@@ -9,11 +9,15 @@
   padding-right: 5%;
   padding-top: 5%;
   padding-bottom: 5%;
-  background-color: #aaaaaa;
+  background-color: white;
   margin-bottom: 2%;
-  width:120%;
+  width:100%;
 }
 
 .post-message{
-
+  background-color: gray;
+  margin-bottom: 2%;
+  padding-bottom: 1%;
+  padding-top: 1%;
+  border-radius: 10px;
 }

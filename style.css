@@ -12,10 +12,11 @@
   background-color: white;
   margin-bottom: 2%;
   width:100%;
+  border-radius: 15px;
 }
 
 .post-message{
-  background-color: gray;
+  background-color: white;
   margin-bottom: 2%;
   padding-bottom: 1%;
   padding-top: 1%;
@@ -23,7 +24,7 @@
 }
 
 .page{
-  width:100%;
-  height: 100%;
+  width:100vh;
+  height: 100vw;
   background-color: lightblue;
 }
